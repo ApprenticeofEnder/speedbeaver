@@ -1,4 +1,5 @@
-# TODO
+# TODO: Figure out how tf to get opentelemetry integrated to begin with
+# TODO: Figure out how to set up the app in the first place
 # from opentelemetry import trace
 #
 #
