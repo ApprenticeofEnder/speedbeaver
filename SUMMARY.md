@@ -3,6 +3,7 @@
 ## Guides
 
 - [Installation](/docs/guides/install.md)
+- [Quickstart](/docs/guides/quickstart.md)
 - [Configuration](/docs/guides/configuring.md)
 - [Log Levels](/docs/guides/log-levels.md)
 - [Environment Variables](/docs/guides/env-vars.md)
@@ -15,7 +16,7 @@
 ## API Reference
 
 - [`speedbeaver.common`](/docs/api/common/index.md)
-  - [`LogLevel`](/docs/api/common/log-level.md)
+  - [`LogLevel`](/docs/api/common/index.md)
 - [`speedbeaver.config`](/docs/api/config/index.md)
   - [`LogSettingsArgs`](/docs/api/config/log-settings-args.md)
   - [`LogSettings`](/docs/api/config/log-settings.md)
